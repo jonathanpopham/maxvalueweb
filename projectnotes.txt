@@ -1,0 +1,40 @@
+technologies to use
+
+liquibase
+rabbitmq
+aws
+amazon s3
+postgres
+
+
+react
+redux
+flask
+
+
+tasks
+implement rest api
+build maxvalue stack backend
+set up database
+
+authentication
+
+level 1
+design a stack with a push, pop, and max function
+which returns the max value in the stack, all of
+which are run in 0(1) time
+
+
+level 2
+add following features
+
+popmaxvalue
+minvalue
+popminvalue
+
+level 3
+multiplayer
+
+track friends stack
+
+push numbers from your stack to another stack
